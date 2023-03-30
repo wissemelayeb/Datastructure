@@ -1,0 +1,3 @@
+This code is a program that reads in a set of vectors, calculates the dot product of each pair of vectors, and then determines if any of the pairs are orthogonal (i.e., their dot product is equal to zero). 
+The dot_product procedure takes in two vectors v1 and v2 as input and returns their dot product in the ps variable passed by reference. 
+The program then uses a nested loop to compare each pair of vectors and prints out a message if they are orthogonal.
