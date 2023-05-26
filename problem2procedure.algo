@@ -38,4 +38,4 @@ if ps = 0 then
 WriteLn('Vector ', i + 1, ' and vector ', j + 1, ' are orthogonal.');
 end;
 end;
-end.
+end;
